@@ -1,0 +1,1 @@
+{"countByValue":{"[FATAL]":2,"[WARN]":11,"[TRACE]":816,"[ERROR]":6,"[DEBUG]":434,"[INFO]":96},"topClassPerMinute":[{"_1":"1855:SampleClass4","_2":11.0},{"_1":"2011:SampleClass5","_2":9.0},{"_1":"1925:SampleClass4","_2":9.0}],"topClassesPerHour":[{"_1":"19:SampleClass6","_2":27.0},{"_1":"19:SampleClass5","_2":27.0},{"_1":"19:SampleClass4","_2":26.0}],"corruptLogEntries":22}
